@@ -1,4 +1,15 @@
 # Pattern-Practice
 Patterns helps in logic building which makes problem solving easier.
 
+## How to approach :
+##### -Number of lines = Number of rows = Number of times outer loop will run. <br> -Run inner loop upto number of columns for every row. <br> -Print type of elements in inner loop (eg : "*", "+", "#", etc....)
+
+## Representation :
+##### -**i** represents number of rows. <br> -**j** represents number of columns.
+
+## Pattern : 1
+#### * <br> ** <br> *** <br> **** <br> *****
+
+## Pattern : 2
+#### ***** <br> ***** <br> ***** <br> ***** <br> *****
 
