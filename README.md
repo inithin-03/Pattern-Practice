@@ -7,6 +7,9 @@ Patterns helps in logic building which makes problem solving easier.
 ## Representation :
 ##### -**i** represents number of rows. <br> -**j** represents number of columns.
 
+## Note Point : 
+##### -Try to find formula for rows and columns.
+
 ## Pattern : 1
 #### * <br> ** <br> *** <br> **** <br> *****
 
