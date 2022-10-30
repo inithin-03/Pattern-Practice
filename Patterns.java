@@ -70,6 +70,20 @@ public class Main {
 			System.out.println();
 		}
 	}
+
+        static void pattern6(int n) {
+		for(int i=1;i<=n;i++)
+		{
+			for(int j=1;j<=n;j++)
+			{
+				if(j<=n-i)
+					System.out.print("-");
+				else
+					System.out.print("*");
+			}
+			System.out.println();
+		}
+	}
   
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
@@ -84,6 +98,8 @@ public class Main {
 		pattern4(n);
 		System.out.println("Pattern : 5);
 		pattern5(n);
+		System.out.println("Pattern : 6);
+		pattern6(n);
 		in.close();
 	}
 }
