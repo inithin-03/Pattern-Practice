@@ -49,6 +49,27 @@ public class Main {
 	}
   
 	}
+
+        static void pattern5(int n) {
+		for(int i=1;i<=2*n-1;i++)
+		{
+			if(i<=n)
+			{
+				for(int j=1;j<=i;j++)
+				{
+					System.out.print("*");
+				}
+			}
+			else
+			{
+				for(int j=1;j<=(2*n)-i;j++)
+				{
+					System.out.print("*");
+				}
+			}
+			System.out.println();
+		}
+	}
   
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
@@ -60,7 +81,9 @@ public class Main {
 		System.out.println("Pattern : 3");
 		pattern3(n);
 		System.out.println("Pattern : 4);
-		pattern4(n);	   
+		pattern4(n);
+		System.out.println("Pattern : 5);
+		pattern5(n);
 		in.close();
 	}
 }
