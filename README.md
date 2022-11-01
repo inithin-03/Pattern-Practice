@@ -26,5 +26,5 @@ Patterns helps in logic building which makes problem solving easier.
 #### * <br> ** <br> *** <br> **** <br> ***** <br> **** <br> *** <br> ** <br> *
 
 ## Pattern : 6
-#### ----* <br> ---** <br> --*** <br> -**** <br> *****
+#### -----* <br> ----** <br> ---*** <br> --**** <br> -***** <br> ******
 
