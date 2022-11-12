@@ -2,7 +2,7 @@
 Patterns helps in logic building which makes problem solving easier.
 
 ## How to approach :
-##### -Number of lines = Number of rows = Number of times outer loop will run. <br> -Run inner loop upto number of columns for every row. <br> -Print type of elements in inner loop (eg : "*", "+", "#", etc....)
+##### -Number of lines = Number of rows = Number of times outer loop will run. <br> -Run inner loop upto number of columns for every row. <br> -Print type of elements in inner loop (eg : "*", "+", "#", etc....).
 
 ## Representation of rows and columns:
 ##### -**i** represents number of rows. <br> -**j** represents number of columns.
